@@ -1,0 +1,58 @@
+.t-app {
+  max-width: 1140px !important;
+  margin: 0px auto;
+}
+
+.t-app-bar div {
+  font-size: 30px;
+  margin: 1px auto;
+}
+
+.t-error-login {
+  color: #ff0000;
+  display: none !important;
+}
+
+.t-display {
+  display: block !important;
+}
+
+.t-wrapper-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.t-user-info {
+  width: 100%;
+}
+
+.t-user-info-name {
+  display: flex;
+  align-items: center;
+}
+
+.t-user-info-tel {
+  display: flex;
+  align-items: center;
+}
+
+.t-user-info-address {
+  display: flex;
+  align-items: center;
+}
+
+.t-card {
+  min-width: 200px;
+}
+
+.t-card-content {
+  text-align: left;
+  padding: 2px;
+  font-size: 20px;
+}
+
+.t-display-block {
+  display: block !important;
+}
+
